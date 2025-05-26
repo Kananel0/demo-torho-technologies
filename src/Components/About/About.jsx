@@ -8,7 +8,7 @@ const About = () => {
           data-aos="zoom-in"
           className="text-2xl sm:text-4xl font-bold max-w-[650px] mx-auto text-center"
         >
-          ABUT US
+          ABOUT US
         </h1>
         <div className="p-6 mt-10 bg-white rounded-lg shadow-lg dark:bg-gray-800 dark:text-white">
   <h2 className="mb-4 text-xl font-semibold">Torho Technologies</h2>
