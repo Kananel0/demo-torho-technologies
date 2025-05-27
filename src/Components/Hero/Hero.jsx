@@ -1,7 +1,7 @@
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { useEffect, useMemo, useState } from "react";
 import { loadSlim } from "@tsparticles/slim"; 
-import image from "../../assets/img/img1.png"
+import image from "../../assets/img/img1.png"; // Adjust the path as necessary
 const Hero = (props) => {
   const [init, setInit] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
