@@ -8,8 +8,8 @@ export default {
         parisienne: ["Parisienne", "cursive"],
       },
       colors: {
-        primary: "#00C2FF",
-        secondary: "#DD0BFF",
+        primary: "#DD0BFF",
+        secondary: "#00C2FF",
         dark: "#111111",
       },
       container: {
