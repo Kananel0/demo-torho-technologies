@@ -23,7 +23,7 @@ We remain steadfast in being a Real Partner in solving client’s needs, by util
 
 Providing an environment of Excellence.
 
-We help exceptional founders to Build their next Venture
+We help exceptional founders to Build their next Venture.
               </p>
              
             </div>

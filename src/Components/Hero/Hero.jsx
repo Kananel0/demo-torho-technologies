@@ -2,7 +2,7 @@ import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { useEffect, useMemo, useState } from "react"; // Corrected import syntax
 import { loadSlim } from "@tsparticles/slim"; 
 // Assuming this path is correct for your project structure
-import image from "../../assets/img/img1.png"; 
+import image from "../../assets/img/img2.png"; // Adjust the path as necessary
 
 const Hero = (props) => { // Changed back to Hero as requested
   const [init, setInit] = useState(false);

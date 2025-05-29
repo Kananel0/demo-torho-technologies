@@ -40,7 +40,7 @@ We are honest and passionate in our consulting work as we seek to solve our clie
 
 We have an Entrepreneurial spirit by developing solutions with agility and continuous learning.
 
-We invest in technological innovations which provide a social impact
+We invest in technological innovations which provide a social impact.
  
 
               </p>
